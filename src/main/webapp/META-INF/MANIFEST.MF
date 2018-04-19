@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: Users/annafock/greatshop/cartservicejava/src/main
+Main-Class: org.cartservicejava.rest.HelloService
+
